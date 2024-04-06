@@ -1,0 +1,33 @@
+2024-04-04 20:48:41.144 +03:00 [INF] Now listening on: https://localhost:7018
+2024-04-04 20:48:41.163 +03:00 [INF] Now listening on: http://localhost:5233
+2024-04-04 20:48:41.166 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-04-04 20:48:41.167 +03:00 [INF] Hosting environment: Development
+2024-04-04 20:48:41.167 +03:00 [INF] Content root path: C:\Users\Gencay\Desktop\d2\attribute_example\Cross.Cutting.Concerns.With.MediatR.Example\Logging.Example
+2024-04-04 20:48:41.768 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7018/ - null null
+2024-04-04 20:48:41.939 +03:00 [INF] Executing endpoint 'HTTP: GET /'
+2024-04-04 20:48:41.943 +03:00 [INF] Handling MyRequest
+2024-04-04 20:48:41.943 +03:00 [INF] Handled MyRequest
+2024-04-04 20:48:41.947 +03:00 [INF] Executed endpoint 'HTTP: GET /'
+2024-04-04 20:48:41.949 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7018/ - 200 null application/json; charset=utf-8 185.5944ms
+2024-04-04 21:34:01.466 +03:00 [INF] Now listening on: https://localhost:7018
+2024-04-04 21:34:01.481 +03:00 [INF] Now listening on: http://localhost:5233
+2024-04-04 21:34:01.482 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-04-04 21:34:01.483 +03:00 [INF] Hosting environment: Development
+2024-04-04 21:34:01.483 +03:00 [INF] Content root path: C:\Users\Gencay\Desktop\d2\attribute_example\Cross.Cutting.Concerns.With.MediatR.Example\Logging.Example
+2024-04-04 21:34:04.031 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7018/ - null null
+2024-04-04 21:34:04.270 +03:00 [INF] Executing endpoint 'HTTP: GET /'
+2024-04-04 21:34:04.276 +03:00 [INF] Handling MyRequest
+2024-04-04 21:34:04.276 +03:00 [INF] Handled MyRequest
+2024-04-04 21:34:04.282 +03:00 [INF] Executed endpoint 'HTTP: GET /'
+2024-04-04 21:34:04.286 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7018/ - 200 null application/json; charset=utf-8 260.691ms
+2024-04-05 19:10:26.587 +03:00 [INF] Now listening on: https://localhost:7018
+2024-04-05 19:10:26.599 +03:00 [INF] Now listening on: http://localhost:5233
+2024-04-05 19:10:26.601 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-04-05 19:10:26.601 +03:00 [INF] Hosting environment: Development
+2024-04-05 19:10:26.601 +03:00 [INF] Content root path: C:\Users\Gencay\Desktop\d2\attribute_example\Cross.Cutting.Concerns.With.MediatR.Example\Logging.Example
+2024-04-05 19:10:28.929 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7018/ - null null
+2024-04-05 19:10:29.480 +03:00 [INF] Executing endpoint 'HTTP: GET /'
+2024-04-05 19:10:29.508 +03:00 [INF] Handling MyRequest
+2024-04-05 19:10:29.509 +03:00 [INF] Handled MyRequest
+2024-04-05 19:10:29.513 +03:00 [INF] Executed endpoint 'HTTP: GET /'
+2024-04-05 19:10:29.542 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7018/ - 200 null application/json; charset=utf-8 633.9037ms
